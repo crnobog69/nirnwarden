@@ -8,7 +8,7 @@ plugins {
     id 'java'
 }
 
-group = "com.crnobog.nirnwarden"
+group = "org.crnbg.nirnwarden"
 
 static def getTime() {
     SimpleDateFormat sdf = new SimpleDateFormat("yyMMdd-HHmm")
