@@ -1,6 +1,6 @@
 # NirnWarden
 
-**NirnWarden** је Paper Minecraft додатак за верзију 1.21.11 дизајниран за *Сезону 3* приватног сервера *Нирн*. Администраторима сервера пружи потпуну контролу над понашањем мобова који оштећују блокове.
+**NirnWarden** је Paper додатак за верзију 1.21.11 дизајниран за *Сезону 3* приватног сервера *Нирн*. Администраторима сервера пружи потпуну контролу над понашањем мобова који оштећују блокове.
 
 [![Test and Release](https://github.com/crnobog69/nirnwarden/actions/workflows/main.yml/badge.svg)](https://github.com/crnobog69/nirnwarden/actions/workflows/main.yml)
 
