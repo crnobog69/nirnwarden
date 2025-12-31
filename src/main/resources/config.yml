@@ -1,1 +1,35 @@
-# A journey of 1,000 lines starts with a single char
+# NirnWarden - Mob Anti-Grief Configuration
+# Set to true to PREVENT mob griefing, false to allow it
+
+# Creeper explosions destroying blocks
+creeper_griefing: true
+
+# Ender crystal explosions destroying blocks
+ender_crystal_griefing: true
+
+# Ender dragon destroying blocks
+ender_dragon_griefing: true
+
+# Enderman picking up/placing blocks
+enderman_griefing: true
+
+# Ghast fireball explosions destroying blocks
+fireball_griefing: true
+
+# Rabbit eating carrots
+rabbit_griefing: true
+
+# Sheep eating grass
+sheep_griefing: true
+
+# Silverfish entering/exiting blocks
+silverfish_griefing: true
+
+# Villager harvesting crops
+villager_griefing: true
+
+# Wither spawn explosion destroying blocks
+wither_griefing: true
+
+# Wither skull projectile destroying blocks
+wither_skull_griefing: true
